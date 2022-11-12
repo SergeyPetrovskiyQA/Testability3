@@ -1,4 +1,4 @@
-public class creditPayment {
+public class СreditPayment {
 
     public double calculate(double percent, double credit, double creditTerm) { // ставка, сумма кредита, срок кредита(год)
         double convertTerm = creditTerm * 12; // конвертировать год в месяц
